@@ -1,0 +1,10 @@
+LANGUAGE: japanese
+
+<WRITE IN BETWEEN THESE TAGS>
+hi there how are you? where can I find some food?
+<WRITE IN BETWEEN THESE TAGS>
+
+TRANSLATION: こんにちは、元気ですか？どこで食べ物を見つけられますか？
+
+
+
