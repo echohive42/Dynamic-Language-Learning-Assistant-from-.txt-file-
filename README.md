@@ -1,6 +1,6 @@
 # Real-Time Language Translator
 
-This is a real-time language translation tool that automatically translates text as you type and provides audio pronunciation.
+This is a real-time language translation tool that automatically translates text as you type and provides audio pronunciation. Just run the python file and start writing in write_here.txt. that is it! more info below
 
 ## ✨ Features
 
